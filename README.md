@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tim
-- 👀 I’m interested in learn coding.
+- 👀 I’m interested in learning how to code.
 - 🌱 I currently started CS50x
 - 📫 How to reach me ...
 
